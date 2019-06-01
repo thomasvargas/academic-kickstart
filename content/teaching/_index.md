@@ -19,7 +19,7 @@ header:
   image: ""
 ---
 
-## About my Teaching
+## About My Teaching
 
 I have background in comparative politics, international relations, public policy, statistics and econometrics. I have taught or TAed for the following classes:
 

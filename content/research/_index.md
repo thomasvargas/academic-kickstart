@@ -19,7 +19,7 @@ header:
   image: ""
 ---
 
-## About my Work
+## About My Work
 
 My research focuses on the provision of public education in the developing world, with attention to the political origins of education systems. I emphasize how political choices regarding education are a result of the interaction between the political alignments of interest groups, electoral incentives, and international factors such as policy diffusion. I also specialize in the political economy of development, studying how inequality (of income and land) is related to redistribution and democratization. To study these topics I make use of quantitative and qualitative methods, including interviews, archival work, large-N statistical work, and survey experiments.
 
