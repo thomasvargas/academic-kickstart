@@ -39,7 +39,5 @@ My dissertation examines why and how Latin American countries reformed their edu
 
 * _Capital Mobility and Democratization: The Role of the Foreign Elites_, with Carly Potz-Nielsen.
 
-* _Human Rights Reports and the Organizations that Produce Them_, with Carly Potz-Nielsen and Robert Ralston.
-
 * _Bleeding But Not Leading?: US Political Dynamics and Bias in International Event Data_, with Sarah Parkinson and Ben Bagozzi.
 
