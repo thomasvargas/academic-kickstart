@@ -71,4 +71,4 @@ email: "thomasvargasc@gmail.com"
 #- Visitors
 ---
 
-I am a political science Ph.D. candidate at the University of Minnesota, where I work on the comparative political economy of development and the politics of education. My dissertation project looks to uncover the political determinants of education system reform in developing countries, with attention to party politics and the role played by international factors, such as diffusion. This website contains a sample of my work.
+I am a political science Ph.D. candidate at the University of Minnesota, where I work on the comparative political economy of development and the politics of education. My dissertation project looks to uncover the political determinants of education system reform in developing countries, with attention to party politics and the role played by international factors, such as diffusion. For the academic year 2019-2020, I'm a visiting student at Duke's Sanford School of Public Policy. This website contains a sample of my work.
