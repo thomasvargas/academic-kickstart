@@ -27,7 +27,7 @@ My research focuses on the provision of public education in the developing world
 
 **Political Parties, Teachers’ Unions, and Diffusion: The Political Economy of Education Reform in Latin America**
 
-My dissertation examines why and how Latin American countries reformed their education systems in the 1990s. Drawing on a statistical analysis of 18 countries over 20 years, in-depth case studies of three countries supported by interviews and archival work, and a conjoint experiment performed on education bureaucrats, I conclude that education reform in Latin America was driven in part by political processes that had little to do with public education itself. Two political logics propelled education reform in the region. First, an internal political logic in which incumbents used education reforms to weaken teachers’ unions that were aligned with the opposition. Second, an external political logic in which international organizations with significant leverage over countries proposed and funded changes to education systems. These political factors, not the underlying strengths and weaknesses of the education system, drove reform. 
+My dissertation examines why and how Latin American countries reformed their education systems in the 1990s. Drawing on a statistical analysis of 18 countries over 20 years, in-depth case studies of three countries supported by interviews and archival work, and a conjoint experiment performed on education bureaucrats, I conclude that education reform in Latin America was driven in part by political processes that had little to do with public education itself. 
 
 ## Working Papers 
 
