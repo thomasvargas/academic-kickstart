@@ -3,7 +3,7 @@ title: "Flying Blind: Education Reform in Latin America in
 the 1990s"
 authors:
 - admin
-date: "2015-09-01T00:00:00Z"
+date: "2020-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: "files/vargas_flyingblind.pdf"
-url_code: ''
+url_code: 'https://github.com/thomasvargas/flyingblind'
 url_dataset: ''
 url_poster: ''
 url_project: ''
