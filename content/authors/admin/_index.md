@@ -73,5 +73,3 @@ email: "thomasvargasc@gmail.com"
 ---
 
 I am a political science Ph.D. candidate at the University of Minnesota. I am a mixed methods researcher working on the politics of developing countries. My dissertation project looks to uncover why countries reform public education, looking at things like public opinion, electoral competition, and the diffusion of ideas. For the academic year 2019-2020, I'm a visiting student at Duke's Sanford School of Public Policy. This website contains a sample of my work.
-
-Should you find the number of publications overwhelming, feel free to use this handy search tool:
