@@ -4,7 +4,7 @@ the 1990s"
 authors:
 - admin
 date: "2020-05-01T00:00:00Z"
-doi: ""
+doi: "10.1177/1056787920931487"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -31,7 +31,7 @@ featured: true
 #   url: ""
 url_pdf: "files/vargas_flyingblind.pdf"
 url_code: 'https://github.com/thomasvargas/flyingblind'
-url_dataset: ''
+url_dataset: 'https://github.com/thomasvargas/flyingblind/tree/master/data'
 url_poster: ''
 url_project: ''
 url_slides: ''
