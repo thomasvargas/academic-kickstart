@@ -16,8 +16,6 @@ role: Postdoctoral Fellow
 organizations:
 - name: McMaster University
   url: ""
-- name: University of Minnesota
-  url: ""
   
 
 # Short bio (displayed in user profile at end of posts)
