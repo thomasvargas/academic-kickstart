@@ -10,12 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in Political Science
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
+- name: McMaster University
+  url: ""
 - name: University of Minnesota
   url: ""
+  
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a political scientist interested in the politics of development, education, and social policy in the developing world.
