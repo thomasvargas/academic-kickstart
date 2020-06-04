@@ -75,4 +75,4 @@ email: "thomasvargasc@gmail.com"
 
 I am a Postdoctoral Fellow in Political Science at McMaster University, and I am completing my PhD at the University of Minnesota. My dissertation project looks to uncover why countries reform public education, looking at things like party politics, electoral competition, and international factors. 
 
-I serve as Editorial Assistant for the *American Political Science Review*, and had the pleasure of serving as Managing Editor for *Comparative Political Studies* from 2016-2018. Prior to graduate school, I worked for two year for the Abdul Latif Jameel Poverty Action Lab (J-PAL).
+I serve as Editorial Assistant for the *American Political Science Review*, and had the pleasure of serving as Managing Editor for *Comparative Political Studies* from 2016-2018. Prior to graduate school, I worked for two years for the Abdul Latif Jameel Poverty Action Lab (J-PAL) in Santiago, Chile. 
