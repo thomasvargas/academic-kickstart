@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD in Political Science
     institution: University of Minnesota
-    year: 2020 (expected)
+    year: 2020
   - course: Master of Public Policy 
     institution: The College of William & Mary
     year: 2012
