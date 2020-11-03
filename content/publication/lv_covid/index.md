@@ -2,6 +2,7 @@
 title: "Subnational State Capacity and Trust in Governmental Responses to COVID-19: Survey Evidence From Mexico"
 authors:
 - admin
+- David Lopez
 date: "2020-11-02T00:00:00Z"
 doi: 
 
